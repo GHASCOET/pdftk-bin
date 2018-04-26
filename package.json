@@ -20,7 +20,4 @@
     "url": "https://github.com/dhollenbeck/pdftk-bin/issues"
   },
   "homepage": "https://github.com/dhollenbeck/pdftk-bin#readme",
-  "dependencies": {
-    "bin-wrapper": "^3.0.2"
-  }
 }
